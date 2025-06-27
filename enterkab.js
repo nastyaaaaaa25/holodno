@@ -12,7 +12,7 @@ document.getElementById('loginForm').addEventListener('submit', (e) => {
   if (checkCredentials(login, password)) {
 
     // Перенаправление в личный кабинет или обновление интерфейса
-    window.location.href = "/adminka.html"; // замените на ваш URL
+    window.location.href = " https://nastyaaaaaa25.github.io/adminka.html"; // замените на ваш URL
     
   } else {
     alert('Некорректный логин или пароль');
